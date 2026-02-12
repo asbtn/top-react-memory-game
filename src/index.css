@@ -1,0 +1,10 @@
+:root {
+  font-family: 'Nunito', sans;
+  background-color: #eee1b4;
+  color: #6e5034;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 3rem;
+}

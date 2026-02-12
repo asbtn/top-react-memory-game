@@ -1,0 +1,11 @@
+.card {
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  border-radius: 3rem;
+}
+
+.card:hover {
+  filter: drop-shadow(5px 5px #5dd3b6);
+  cursor: pointer;
+}

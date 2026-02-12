@@ -1,0 +1,6 @@
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  max-width: 100%;
+  gap: 4rem;
+}
